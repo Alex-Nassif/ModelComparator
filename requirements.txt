@@ -1,0 +1,10 @@
+torch
+torchvision
+matplotlib
+scikit-learn
+seaborn
+random
+os
+urllib
+zipfile
+tarfile
